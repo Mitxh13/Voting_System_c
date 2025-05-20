@@ -2,9 +2,12 @@ The purpose of the Voting System is to allow users to cast their votes for activ
 
 Features:-
   1)New user account creation
+  
   2)Secure user login and logout system
+  
   3)One-time vote casting mechanism
   4)Vote counting functionality
+  
   5)Admin login to release election results
 
 Technology Used:-
