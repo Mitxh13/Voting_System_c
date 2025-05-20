@@ -13,6 +13,6 @@ Interface: Console (command line)
 Data storage: CSV files   
 
 Future Enhancements:-       
-    1)Add a graphical front-end interface
-    2)Allow users to change email and password
-    3)Improve data security and validation
+    1)Add a graphical front-end interface                     
+    2)Allow users to change email and password                          
+    3)Improve data security and validation                            
