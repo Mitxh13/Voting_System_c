@@ -1,3 +1,5 @@
+# Voting System - Console Based Application
+
 The purpose of the Voting System is to allow users to cast their votes for active candidates who represent various parties. It is designed to simulate a basic election process through a simple console-based interface.This project is developed in the C programming language and uses CSV files for storing user and voting data.
 
 Features:-        
